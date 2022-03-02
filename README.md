@@ -4,9 +4,9 @@
 
 - 📈 github: https://github.com/wenbochang888
 
-- ❤️ blog: https://www.cnblogs.com/wenbochang/
+- 😄 blog: https://www.cnblogs.com/wenbochang/
 
-- 💬 leetcode: https://leetcode-cn.com/u/bigegg/
+- 📫 leetcode: https://leetcode-cn.com/u/bigegg/
 
 
 
