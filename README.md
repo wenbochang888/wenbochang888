@@ -1,14 +1,14 @@
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 2019年毕业, 后端开发工程师
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 github: https://github.com/wenbochang888
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ blog: https://www.cnblogs.com/wenbochang/
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 leetcode: https://leetcode-cn.com/u/bigegg/
 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/wenbochang888"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wenbochang888&show_icons=true&count_private=true&theme=vue" alt="Anurag's github stats" /></a> | <a href="https://github.com/wenbochang888"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenbochang888&layout=compact" /></a> |
 | ------------- | ------------- |
