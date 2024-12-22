@@ -24,6 +24,9 @@
 如果你觉得我很有趣，想和我交朋友，欢迎联系我与我交流，全网同名 *程序员博博*，当然你有好的工作机会也可以联系我，我也会非常感兴趣
 
 最后推荐推荐，这是我用chatGPT + cursor写的小程序，欢迎体验交流
+<div align=center>
+<img src="https://raw.githubusercontent.com/wenbochang888/wenbochang888/refs/heads/master/1.PNG">
+</div>
 
 
 
