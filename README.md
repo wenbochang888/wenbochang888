@@ -21,11 +21,11 @@
 
 现在我仍然年轻，希望了解世界，了解各种各样的人，我也希望能交到不同的朋友，扩宽我的视野
 
-如果你觉得我很有趣，想和我交朋友，欢迎联系我与我交流，全网同名 *程序员博博*，当然你有好的工作机会也可以联系我，我也会非常感兴趣
+如果你觉得我很有趣，想和我交朋友，欢迎联系我与我交流，全网同名 **程序员博博**，当然你有好的工作机会也可以联系我，我也会非常感兴趣
 
-最后推荐推荐，这是我用chatGPT + cursor写的小程序，欢迎体验交流
+最后推荐推荐，这是我用chatGPT + cursor写的微信小程序《程序员博博》，欢迎体验交流
 <div align=center>
-<img src="https://raw.githubusercontent.com/wenbochang888/wenbochang888/refs/heads/master/1.PNG">
+<img src="https://raw.githubusercontent.com/wenbochang888/wenbochang888/refs/heads/master/1.PNG" width="380" height="290">
 </div>
 
 
